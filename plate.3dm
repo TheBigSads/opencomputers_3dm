@@ -1,0 +1,25 @@
+{
+  label = "plate",
+  shapes = {
+    { 2,0,5,14,1,11,texture = "iron_block", tint = 0xaaaaaa },
+    { 3,0,4,13,1,12,texture = "iron_block", tint = 0xaaaaaa },
+    { 4,0,3,12,1,13,texture = "iron_block", tint = 0xaaaaaa },
+    { 5,0,2,11,1,14,texture = "iron_block", tint = 0xaaaaaa },
+    { 1,1,5,2,2,11,texture = "iron_block", tint = 0xaaaaaa },
+    { 2,1,3,3,2,5,texture = "iron_block", tint = 0xaaaaaa },
+    { 2,1,11,3,2,13,texture = "iron_block", tint = 0xaaaaaa },
+    { 3,1,2,4,2,4,texture = "iron_block", tint = 0xaaaaaa },
+    { 3,1,12,4,2,14,texture = "iron_block", tint = 0xaaaaaa },
+    { 4,1,2,5,2,3,texture = "iron_block", tint = 0xaaaaaa },
+    { 4,1,13,5,2,14,texture = "iron_block", tint = 0xaaaaaa },
+    { 5,1,1,11,2,2,texture = "iron_block", tint = 0xaaaaaa },
+    { 5,1,14,11,2,15,texture = "iron_block", tint = 0xaaaaaa },
+    { 11,1,2,13,2,3,texture = "iron_block", tint = 0xaaaaaa },
+    { 11,1,13,13,2,14,texture = "iron_block", tint = 0xaaaaaa },
+    { 12,1,3,14,2,4,texture = "iron_block", tint = 0xaaaaaa },
+    { 12,1,12,13,2,14,texture = "iron_block", tint = 0xaaaaaa },
+    { 13,1,4,14,2,5,texture = "iron_block", tint = 0xaaaaaa },
+    { 13,1,11,14,2,13,texture = "iron_block", tint = 0xaaaaaa },
+    { 14,1,5,15,2,11,texture = "iron_block", tint = 0xaaaaaa },
+  }
+}
