@@ -1,0 +1,15 @@
+{
+  label = "burger",
+  shapes = {
+    { 5,1,6,11,2,10,texture = "iron_block", tint = 0xccff66 },
+    { 6,1,5,10,2,11,texture = "iron_block", tint = 0xccff66 },
+    { 5,2,6,11,3,10,texture = "iron_block", tint = 0x663300 },
+    { 6,2,5,10,3,11,texture = "iron_block", tint = 0x663300 },
+    { 5,3,6,11,4,10,texture = "iron_block", tint = 0xccff00 },
+    { 6,3,5,10,4,11,texture = "iron_block", tint = 0xccff00 },
+    { 5,4,6,11,5,10,texture = "iron_block", tint = 0x00ee00 },
+    { 6,4,5,10,5,11,texture = "iron_block", tint = 0x00ee00 },
+    { 5,5,6,11,6,10,texture = "iron_block", tint = 0xccff66 },
+    { 6,5,5,10,6,11,texture = "iron_block", tint = 0xccff66 },
+  }
+}
