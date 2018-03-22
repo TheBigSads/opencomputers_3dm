@@ -1,0 +1,6 @@
+{
+  label = "table-mid",
+  shapes = {
+    { 0,14,0,16,16,16,texture = "minecraft:blocks/wool_colored_brown", tint = 0x663300 },
+  }
+}
