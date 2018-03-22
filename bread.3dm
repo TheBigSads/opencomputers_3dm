@@ -1,0 +1,14 @@
+{
+  label = "bread",
+  shapes = {
+    { 6,1,3,11,2,13,texture = "iron_block", tint = 0x663300 },
+    { 6,2,3,7,6,13,texture = "iron_block", tint = 0x663300 },
+    { 7,2,3,10,5,13,texture = "iron_block", tint = 0xeeeeee },
+    { 10,2,3,11,6,13,texture = "iron_block", tint = 0x663300 },
+    { 7,5,3,8,6,13,texture = "iron_block", tint = 0xeeeeee },
+    { 8,5,3,9,6,13,texture = "iron_block", tint = 0x663300 },
+    { 9,5,3,10,6,13,texture = "iron_block", tint = 0xeeeeee },
+    { 7,6,3,8,7,13,texture = "iron_block", tint = 0x663300 },
+    { 9,6,3,10,7,13,texture = "iron_block", tint = 0x663300 },
+  }
+}
