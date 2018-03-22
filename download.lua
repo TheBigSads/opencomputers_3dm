@@ -1,0 +1,8 @@
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/bread.3dm /models/bread.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/burger.3dm /models/burger.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/drone.3dm /models/drone.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/flowerpot.3dm /models/flowerpot.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/laptop.3dm /models/laptop.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/table_corner.3dm /models/table_corner.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/table_end.3dm /models/table_end.3dm")
+os.execute("wget https://raw.githubusercontent.com/hpf3/opencomputers_3dm/master/table_mid.3dm /models/table_mid.3dm")
