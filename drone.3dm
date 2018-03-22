@@ -1,0 +1,26 @@
+{
+  label = "drone",
+  shapes = {
+    { 3,8,7,12,11,8,texture = "iron_block", tint = 0x111111 },
+    { 4,8,6,11,11,9,texture = "iron_block", tint = 0x111111 },
+    { 5,8,5,10,11,10,texture = "iron_block", tint = 0x111111 },
+    { 6,8,4,9,11,11,texture = "iron_block", tint = 0x111111 },
+    { 7,8,3,8,11,12,texture = "iron_block", tint = 0x111111 },
+    { 0,9,0,1,10,6,texture = "iron_block", tint = 0x111111 },
+    { 0,9,9,15,10,10,texture = "iron_block", tint = 0x111111 },
+    { 0,9,10,1,10,15,texture = "iron_block", tint = 0x111111 },
+    { 1,9,0,6,10,1,texture = "iron_block", tint = 0x111111 },
+    { 1,9,1,5,10,5,texture = "iron_block", tint = 0x00ee00 },
+    { 1,9,5,15,10,6,texture = "iron_block", tint = 0x111111 },
+    { 1,9,10,5,10,14,texture = "iron_block", tint = 0x00ee00 },
+    { 1,9,14,6,10,15,texture = "iron_block", tint = 0x111111 },
+    { 5,9,1,6,10,15,texture = "iron_block", tint = 0x111111 },
+    { 9,9,0,10,10,15,texture = "iron_block", tint = 0x111111 },
+    { 10,9,0,15,10,1,texture = "iron_block", tint = 0x111111 },
+    { 10,9,1,14,10,5,texture = "iron_block", tint = 0x00ee00 },
+    { 10,9,10,14,10,14,texture = "iron_block", tint = 0x00ee00 },
+    { 10,9,14,15,10,15,texture = "iron_block", tint = 0x111111 },
+    { 14,9,1,15,10,6,texture = "iron_block", tint = 0x111111 },
+    { 14,9,10,15,10,15,texture = "iron_block", tint = 0x111111 },
+  }
+}
